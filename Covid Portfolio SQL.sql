@@ -133,7 +133,7 @@ on dea.continent = vac.continent
     and dea.date = vac.date
 where dea.continent is not null
 
-
+-- Download 'vw_PercentPopulationVaccinated' to be used in tableau visualization
 
 
 
