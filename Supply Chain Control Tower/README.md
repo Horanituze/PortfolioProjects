@@ -59,7 +59,7 @@ From October 2017 the source records one line per order instead of about three, 
 ## Opening the report
 
 1. Download the data from Mendeley (link below).
-2. Open `report/SupplyChainControlTower.pbix` in Power BI Desktop.
+2. Open `report/Supply Chain Control Tower.pbix` in Power BI Desktop.
 3. To refresh, go to Transform data > Manage parameters and set `DataFilePath` to your copy of `DataCoSupplyChainDataset.csv`.
 
 The raw data is not stored in this repository.
